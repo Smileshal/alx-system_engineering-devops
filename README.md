@@ -1,1 +1,1 @@
-Trying git on my own
+I am still struggling with github
