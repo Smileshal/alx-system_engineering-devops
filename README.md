@@ -1,1 +1,1 @@
-I am still struggling with github
+shell permissions
